@@ -88,6 +88,9 @@ With a strong foundation in **Laravel**, **React**, and **Next.js**, I enjoy tur
 
 <img src="https://streak-stats.demolab.com?user=ArefLaly&theme=tokyonight&hide_border=true"/>
 
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArefLaly&color=blue)
 </div>
 
 ---
