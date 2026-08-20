@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F0F,50:1C1C1C,100:D4AF37&text=Mohammad%20Arif%20Laly&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Kabul%20%E2%80%A2%20ERP%20%26%20MIS&descAlignY=55&descSize=18" alt="Mohammad Arif Laly" />
+![Mohammad Arif Laly](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F0F%2C50:1C1C1C%2C100:D4AF37&text=Mohammad%20Arif%20Laly&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20in%20Kabul&descAlignY=50&descSize=16)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=D4AF37&center=true&vCenter=true&width=760&height=40&repeat=true&lines=Software+Engineer+%C2%B7+Kabul;Building+modern+web+systems;Always+learning" alt="Role typing animation" />
+### “First, solve the problem. Then, write the code.”
+*— John Johnson*
+
+![Role typing animation](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2800&pause=800&color=D4AF37&center=true&vCenter=true&width=760&height=40&repeat=true&lines=Software+Engineer+%C2%B7+Kabul;Building+modern+web+systems;Always+learning)
 
 <br />
 
@@ -31,8 +34,8 @@ I care about clean code, fast performance, and software teams can run every day 
 
 <br />
 
-<a href="https://github.com/ArifLaly">
-  <img src="https://img.shields.io/badge/Let's_talk_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Let's talk on GitHub" />
+<a href="https://wa.me/93784970037">
+  <img src="https://img.shields.io/badge/Let's_talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Let's talk on WhatsApp" />
 </a>
 
 </div>
@@ -147,17 +150,6 @@ I care about clean code, fast performance, and software teams can run every day 
 
 ---
 
-<div align="center">
-
-### 💬 Favorite Quote
-
-> *"First, solve the problem. Then, write the code."*  
-> — John Johnson
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
@@ -178,6 +170,6 @@ I care about clean code, fast performance, and software teams can run every day 
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1C1C1C,100:0F0F0F&height=120&section=footer" alt="" />
+![footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37%2C50:1C1C1C%2C100:0F0F0F&height=120&section=footer)
 
 </div>
