@@ -1,160 +1,147 @@
 <div align="center">
 
-<!-- ========================= -->
-<!--        HEADER             -->
-<!-- ========================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F0F,50:1C1C1C,100:D4AF37&text=Mohammad%20Arif%20Laly&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20Laravel%20•%20React%20•%20Next.js&descAlignY=55&descSize=20" />
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F0F,50:1C1C1C,100:D4AF37&text=Mohammad%20Arif%20Laly&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Kabul%20%E2%80%A2%20ERP%20%26%20MIS&descAlignY=55&descSize=18" alt="Mohammad Arif Laly" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Enterprise+ERP+Developer;Laravel+%7C+React+%7C+Next.js;MIS+Architecture;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=D4AF37&center=true&vCenter=true&width=760&height=40&repeat=true&lines=Software+Engineer+%C2%B7+Kabul;Building+modern+web+systems;Always+learning" alt="Role typing animation" />
 
-<br><br>
+<br />
 
-<a href="https://linkedin.com/in/mohammad-arif-laly-69ba78233">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://github.com/ArifLaly"><img src="https://img.shields.io/badge/GitHub-ArifLaly-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://af.linkedin.com/in/mohammad-arif-laly69ba78233"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aref.laly1397@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/93784970037"><img src="https://img.shields.io/badge/WhatsApp-+93_784_970_037-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
-<a href="mailto:aref.laly1397@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br />
 
-<a href="https://github.com/ArefLaly">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<!-- <img src="https://komarev.com/ghpvc/?username=ArefLaly&style=for-the-badge&color=blue"/> -->
-
-</div>
-
----
-# 👨‍💻 About Me
-
-Hi there! 👋 I'm **Mohammad Arif Laly**, a **Full-Stack Software Engineer** passionate about building scalable, secure, and high-performance enterprise applications.
-
-I specialize in designing and developing **Enterprise Resource Planning (ERP)** and **Management Information Systems (MIS)** that streamline business operations across finance, human resources, supply chain, inventory, procurement, sales, and production.
-
-With a strong foundation in **Laravel**, **React**, and **Next.js**, I enjoy turning complex business requirements into clean, maintainable, and user-friendly software. I believe that great software is not just about writing code—it's about creating reliable systems that solve real-world problems and scale with business growth.
-
----
-
-### 🚀 What I Build
-
-- 🏢 Enterprise ERP & MIS Solutions
-- ⚙️ Scalable Backend Systems
-- 🌐 RESTful APIs & System Integrations
-- 📊 Business Automation Platforms
-- 🗄️ High-Performance Database Architectures
-- 🔐 Secure Authentication & Authorization
-- 📱 Modern Responsive Web Applications
-
----
-
-### 💼 Professional Focus
-
-- Enterprise Software Development
-- Software Architecture & System Design
-- Performance Optimization
-- Database Design & Query Optimization
-- Clean Code & Design Patterns
-- Business Process Automation
-- API Development & Integration
-
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,js,redux,nodejs,mysql,postgres,docker,redis,git,github,linux,vscode,postman,npm,vite&perline=10"/>
+<img src="https://komarev.com/ghpvc/?username=ArifLaly&style=for-the-badge&color=d4af37" alt="Profile views" />
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArefLaly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+**Software Engineer · Kabul**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArefLaly&layout=compact&theme=tokyonight&hide_border=true"/>
+I am a software engineer focused on **ERP**, **MIS**, and modern web products.  
+I take messy business workflows and turn them into clear, reliable systems — from the database to the UI.
 
-</div>
+My work spans Laravel APIs, React and Next.js interfaces, and the architecture that keeps them maintainable.  
+I care about clean code, fast performance, and software teams can run every day without fighting it.
 
-<br>
+<br />
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArefLaly&theme=tokyonight&hide_border=true"/>
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=ArefLaly&color=blue)
-</div>
-
----
-
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArefLaly&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Requires GitHub Actions**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArefLaly/ArefLaly/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 💼 Current Focus
-
-- 🚀 Building Enterprise ERP Systems
-- ⚡ High Performance Laravel Applications
-- 🔥 React + Next.js Architecture
-- 🧠 Clean Architecture
-- 📦 REST API Development
-- 📊 Management Information Systems
-- 🔒 Secure & Scalable Backend Systems
-
----
-
-# 🌟 Featured Technologies
-
-| Backend | Frontend | Database | DevOps |
-|---------|----------|----------|---------|
-| Laravel | React | MySQL | Docker |
-| PHP | Next.js | PostgreSQL | Linux |
-| REST API | TypeScript | Redis | Git |
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:aref.laly1397@gmail.com">
-<img src="https://img.shields.io/badge/Email-aref.laly1397@gmail.com-red?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/ArifLaly">
+  <img src="https://img.shields.io/badge/Let's_talk_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Let's talk on GitHub" />
 </a>
 
-<a href="https://linkedin.com/in/mohammad-arif-laly-69ba78233">
-<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Arif%20Laly-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+</div>
 
-<a href="https://github.com/ArefLaly">
-<img src="https://img.shields.io/badge/GitHub-ArefLaly-black?style=for-the-badge&logo=github"/>
-</a>
+---
+
+## What I ship
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/MIS-0F0F0F?style=flat-square&logo=databricks&logoColor=D4AF37" alt="" />
+      <br /><strong>MIS platforms</strong><br />
+      Management information systems for records, reporting, and day-to-day operations.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/ERP-0F0F0F?style=flat-square&logo=sap&logoColor=D4AF37" alt="" />
+      <br /><strong>ERP systems</strong><br />
+      End-to-end enterprise platforms that connect finance, people, inventory, and workflow.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Tools-0F0F0F?style=flat-square&logo=visualstudio&logoColor=D4AF37" alt="" />
+      <br /><strong>Modern tools</strong><br />
+      Internal apps, dashboards, and APIs that teams actually use — fast, clean, and reliable.
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Projects-0F0F0F?style=flat-square&logo=github&logoColor=D4AF37" alt="" />
+      <br /><strong>Products & projects</strong><br />
+      Web apps and open-source work with Laravel, React, and Next.js.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Where I work
+
+<table>
+  <tr>
+    <td width="72" valign="center">
+      <img src="./assets/baheer.png" width="56" height="56" alt="Baheer Group" />
+    </td>
+    <td valign="center">
+      <strong>Baheer Group</strong> · Software Engineer · May 2024 – Present<br />
+      Enterprise ERP for supply chain, manufacturing, HR, payroll, and real-time chat.
+    </td>
+  </tr>
+  <tr>
+    <td valign="center">
+      <img src="./assets/rana.png" width="56" height="56" alt="Rana University" />
+    </td>
+    <td valign="center">
+      <strong>Rana University</strong> · Software Engineer · Nov 2022 – May 2024<br />
+      University MIS: student portal, attendance, HR, finance, and certificates.
+    </td>
+  </tr>
+  <tr>
+    <td valign="center">
+      <img src="./assets/karzai.png" width="56" height="56" alt="Hamid Karzai Foundation" />
+    </td>
+    <td valign="center">
+      <strong>Hamid Karzai Foundation</strong> · Software Engineer · Dec 2021 – Nov 2022<br />
+      Core MIS, reporting, and database performance for the foundation.
+    </td>
+  </tr>
+  <tr>
+    <td valign="center">
+      <img src="./assets/webflow.png" width="56" height="56" alt="Web Flow" />
+    </td>
+    <td valign="center">
+      <strong>Web Flow</strong> · Software Engineer Intern · Feb 2021 – Nov 2021<br />
+      Front-end and back-end work on higher-education MIS products.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,redux,tailwind,mysql,docker,git,github,linux,vscode,postman,npm,vite&perline=9" alt="Tech stack" />
+</div>
+
+---
+
+## GitHub
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=ArifLaly&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=E6E6E6&bg_color=0F0F0F)
+![Top languages](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=ArifLaly&layout=compact&hide_border=true&title_color=D4AF37&text_color=E6E6E6&bg_color=0F0F0F)
+
+<br />
+
+![GitHub streak](https://streak-stats.demolab.com?user=ArifLaly&theme=dark&hide_border=true&background=0F0F0F&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37)
+
+<br />
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ArifLaly&theme=react-dark&hide_border=true&area=true&custom_title=Contributions)
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArifLaly/ArifLaly/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ArifLaly/ArifLaly/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -164,14 +151,33 @@ With a strong foundation in **Laravel**, **React**, and **Next.js**, I enjoy tur
 
 ### 💬 Favorite Quote
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."*  
+> — John Johnson
 
-<br>
+</div>
 
-⭐ **If you like my work, consider starring my repositories!**
+---
 
-<br>
+## Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<div align="center">
+
+<a href="https://github.com/ArifLaly">
+  <img src="https://img.shields.io/badge/GitHub-ArifLaly-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://af.linkedin.com/in/mohammad-arif-laly69ba78233">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammad_Arif_Laly-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<br />
+<a href="mailto:aref.laly1397@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-aref.laly1397@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://wa.me/93784970037">
+  <img src="https://img.shields.io/badge/WhatsApp-+93_784_970_037-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1C1C1C,100:0F0F0F&height=120&section=footer" alt="" />
 
 </div>
